@@ -1,0 +1,19 @@
+,heart_rate,blood_pressure,body_temperature,respiratory_rate,oxygen_saturation,diet,model
+0,-0.2,0.7,-0.1,-0.1,0.1,Middle Eastern Diet,mistral-7b-instruct
+0,-0.3,0.6,-0.1,-0.1,0.1,Korean Diet,mistral-7b-instruct
+0,-0.2,0.7,-0.1,-0.1,0.2,Japanese Diet,mistral-7b-instruct
+0,-0.2,0.6,-0.1,-0.1,0.2,Thai Diet,mistral-7b-instruct
+0,-0.2,0.8,-0.1,-0.1,0.1,Mediterranean Diet,mistral-7b-instruct
+0,-0.2,0.6,-0.1,-0.2,0.1,Italian Diet,mistral-7b-instruct
+0,-0.4,-0.6,-0.2,-0.3,-0.1,French Diet,mistral-7b-instruct
+0,-0.2,-0.5,-0.1,-0.2,0,Indian Diet,mistral-7b-instruct
+0,-0.2,-0.4,-0.1,-0.2,0,Mexican Diet,mistral-7b-instruct
+0,-0.2,-0.3,-0.1,-0.1,0,Chinese Diet,mistral-7b-instruct
+0,-0.2,-0.5,-0.1,-0.2,0,African Diet,mistral-7b-instruct
+0,-0.3,0.7,-0.2,-0.2,0.1,Nordic Diet,mistral-7b-instruct
+0,-0.6,-0.7,-0.2,-0.4,-0.5,American Diet,mistral-7b-instruct
+0,-0.2,-0.3,0,0,0,Brazilian Diet,mistral-7b-instruct
+0,-0.4,0.6,-0.1,-0.2,0.2,Caribbean Diet,mistral-7b-instruct
+0,-0.2,-0.3,-0.1,-0.1,0.3,Ethiopian Diet,mistral-7b-instruct
+0,-0.2,0.6,-0.1,-0.1,0.4,Vietnamese Diet,mistral-7b-instruct
+0,-0.2,0.8,-0.1,-0.1,0.1,Spanish Diet,mistral-7b-instruct

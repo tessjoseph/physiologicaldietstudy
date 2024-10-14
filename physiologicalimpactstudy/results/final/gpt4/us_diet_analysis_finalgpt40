@@ -1,0 +1,12 @@
+,heart_rate,blood_pressure,body_temperature,respiratory_rate,oxygen_saturation,diet,model
+0,0.4,0.6,0.1,0.2,0.2,Korean Diet,openai/chatgpt-4o-latest
+0,0.5,0.7,0.1,0.3,0.2,Japanese Diet,openai/chatgpt-4o-latest
+0,0.3,0.8,0.0,0.2,0.2,Mediterranean Diet,openai/chatgpt-4o-latest
+0,0.4,0.6,0.0,0.3,0.2,Italian Diet,openai/chatgpt-4o-latest
+0,0.1,0.2,0.0,0.0,0.0,French Diet,openai/chatgpt-4o-latest
+0,0.3,0.4,0.1,0.2,0.2,Indian Diet,openai/chatgpt-4o-latest
+0,0.3,0.5,0.0,0.1,0.0,Mexican Diet,openai/chatgpt-4o-latest
+0,0.1,0.2,0.0,0.0,0.0,Chinese Diet,openai/chatgpt-4o-latest
+0,0.2,0.7,0.0,0.1,0.1,Nordic Diet,openai/chatgpt-4o-latest
+0,0.4,0.6,0.1,0.2,0.3,Caribbean Diet,openai/chatgpt-4o-latest
+0,0.4,0.5,0.0,0.3,0.2,Vietnamese Diet,openai/chatgpt-4o-latest

@@ -1,0 +1,19 @@
+,heart_rate,blood_pressure,body_temperature,respiratory_rate,oxygen_saturation,diet,model
+0,0.5,0.6,0.4,0.3,0.5,Middle Eastern Diet,gpt-3.5-turbo
+0,0.5,0.6,0.3,0.4,0.7,Korean Diet,gpt-3.5-turbo
+0,0.7,0.8,0.3,0.6,0.7,Japanese Diet,gpt-3.5-turbo
+0,0.6,0.7,0.3,0.5,0.4,Thai Diet,gpt-3.5-turbo
+0,0.8,0.9,0.4,0.7,0.6,Mediterranean Diet,gpt-3.5-turbo
+0,0.1,0.2,0,0,0.3,Italian Diet,gpt-3.5-turbo
+0,0.3,0.2,0,0.1,0.2,French Diet,gpt-3.5-turbo
+0,0.3,0.4,0.2,0.3,0.3,Indian Diet,gpt-3.5-turbo
+0,0.4,0.3,0.1,0.3,0.2,Mexican Diet,gpt-3.5-turbo
+0,0.3,0.4,0.2,0.3,0.3,Chinese Diet,gpt-3.5-turbo
+0,0.1,0.2,0,0.1,0.2,African Diet,gpt-3.5-turbo
+0,0.7,0.8,0.3,0.6,0.5,Nordic Diet,gpt-3.5-turbo
+0,-0.7,-0.8,-0.4,-0.6,-0.5,American Diet,gpt-3.5-turbo
+0,0.2,0.3,0.1,0.2,0.3,Brazilian Diet,gpt-3.5-turbo
+0,0.3,0.4,0.2,0.3,0.4,Caribbean Diet,gpt-3.5-turbo
+0,0.2,0.3,0.2,0.1,0.3,Ethiopian Diet,gpt-3.5-turbo
+0,0.3,0.4,0.2,0.3,0.4,Vietnamese Diet,gpt-3.5-turbo
+0,0.7,0.8,0.3,0.6,0.9,Spanish Diet,gpt-3.5-turbo
