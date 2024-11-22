@@ -1,0 +1,26 @@
+,ideal,actual,feeling,model
+0,4,3,enthusiastic,openai/gpt-4o-mini
+0,5,4,excited,openai/gpt-4o-mini
+0,5,3,strong (elated),openai/gpt-4o-mini
+0,5,4,happy,openai/gpt-4o-mini
+0,5,4,satisfied,openai/gpt-4o-mini
+0,5,4,content,openai/gpt-4o-mini
+0,5,3,calm,openai/gpt-4o-mini
+0,5,3,at rest,openai/gpt-4o-mini
+0,5,3,relaxed,openai/gpt-4o-mini
+0,5,3,peaceful (serene),openai/gpt-4o-mini
+0,4,3,quiet,openai/gpt-4o-mini
+0,5,3,still,openai/gpt-4o-mini
+0,4,3,passive,openai/gpt-4o-mini
+0,2,3,dull,openai/gpt-4o-mini
+0,2,3,sleepy,openai/gpt-4o-mini
+0,2,3,sluggish,openai/gpt-4o-mini
+0,2,3,sad,openai/gpt-4o-mini
+0,1,3,lonely,openai/gpt-4o-mini
+0,1,2,unhappy,openai/gpt-4o-mini
+0,2,3,fearful,openai/gpt-4o-mini
+0,1,2,hostile,openai/gpt-4o-mini
+0,2,3,nervous,openai/gpt-4o-mini
+0,5,4,aroused,openai/gpt-4o-mini
+0,4,3,surprised,openai/gpt-4o-mini
+0,4,3,astonished,openai/gpt-4o-mini

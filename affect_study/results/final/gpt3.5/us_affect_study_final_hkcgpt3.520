@@ -1,0 +1,26 @@
+,ideal,actual,feeling,model
+0,4,3,enthusiastic,gpt-3.5-turbo
+0,5,4,excited,gpt-3.5-turbo
+0,4,3,strong (elated),gpt-3.5-turbo
+0,5,4,happy,gpt-3.5-turbo
+0,4,3,satisfied,gpt-3.5-turbo
+0,4,3,content,gpt-3.5-turbo
+0,5,4,calm,gpt-3.5-turbo
+0,5,3,at rest,gpt-3.5-turbo
+0,5,3,relaxed,gpt-3.5-turbo
+0,4,3,peaceful (serene),gpt-3.5-turbo
+0,4,3,quiet,gpt-3.5-turbo
+0,4,3,still,gpt-3.5-turbo
+0,2,3,passive,gpt-3.5-turbo
+0,1,2,dull,gpt-3.5-turbo
+0,2,3,sleepy,gpt-3.5-turbo
+0,2,3,sluggish,gpt-3.5-turbo
+0,2,3,sad,gpt-3.5-turbo
+0,2,3,lonely,gpt-3.5-turbo
+0,2,3,unhappy,gpt-3.5-turbo
+0,2,3,fearful,gpt-3.5-turbo
+0,2,2,hostile,gpt-3.5-turbo
+0,2,3,nervous,gpt-3.5-turbo
+0,4,3,aroused,gpt-3.5-turbo
+0,4,3,surprised,gpt-3.5-turbo
+0,5,3,astonished,gpt-3.5-turbo

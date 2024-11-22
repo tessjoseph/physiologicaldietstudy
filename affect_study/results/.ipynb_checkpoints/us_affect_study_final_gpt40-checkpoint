@@ -1,0 +1,5 @@
+,ideal,actual,feeling,model
+0,4,3,enthusiastic,openai/chatgpt-4o-latest
+0,1,2,dull,openai/chatgpt-4o-latest
+0,4,3,excited,openai/chatgpt-4o-latest
+0,4,3,sleepy,openai/chatgpt-4o-latest

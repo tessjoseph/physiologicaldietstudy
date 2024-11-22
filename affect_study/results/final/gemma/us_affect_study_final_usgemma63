@@ -1,0 +1,26 @@
+,ideal,actual,feeling,model
+0,4,3,enthusiastic,google/gemma-2-27b-it
+0,4,3,excited,google/gemma-2-27b-it
+0,4,3,strong (elated),google/gemma-2-27b-it
+0,5,3,happy,google/gemma-2-27b-it
+0,4,3,satisfied,google/gemma-2-27b-it
+0,5,3,content,google/gemma-2-27b-it
+0,4,3,calm,google/gemma-2-27b-it
+0,4,3,at rest,google/gemma-2-27b-it
+0,5,3,relaxed,google/gemma-2-27b-it
+0,4,3,peaceful (serene),google/gemma-2-27b-it
+0,4,3,quiet,google/gemma-2-27b-it
+0,4,3,still,google/gemma-2-27b-it
+0,3,3,passive,google/gemma-2-27b-it
+0,2,3,dull,google/gemma-2-27b-it
+0,3,4,sleepy,google/gemma-2-27b-it
+0,2,3,sluggish,google/gemma-2-27b-it
+0,2,3,sad,google/gemma-2-27b-it
+0,2,3,lonely,google/gemma-2-27b-it
+0,2,3,unhappy,google/gemma-2-27b-it
+0,2,3,fearful,google/gemma-2-27b-it
+0,2,3,hostile,google/gemma-2-27b-it
+0,2,3,nervous,google/gemma-2-27b-it
+0,4,3,aroused,google/gemma-2-27b-it
+0,3,3,surprised,google/gemma-2-27b-it
+0,3,2,astonished,google/gemma-2-27b-it

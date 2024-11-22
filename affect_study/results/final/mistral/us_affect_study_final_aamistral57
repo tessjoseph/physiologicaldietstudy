@@ -1,0 +1,23 @@
+,ideal,actual,feeling,model
+0,4,3,excited,mistral-7b-instruct
+0,4,3,strong (elated),mistral-7b-instruct
+0,4.5,4,happy,mistral-7b-instruct
+0,4,3.5,satisfied,mistral-7b-instruct
+0,4.5,3.5,content,mistral-7b-instruct
+0,4,3.5,calm,mistral-7b-instruct
+0,4,3,at rest,mistral-7b-instruct
+0,4.5,3.8,relaxed,mistral-7b-instruct
+0,4,3,peaceful (serene),mistral-7b-instruct
+0,4,3,still,mistral-7b-instruct
+0,4,3,passive,mistral-7b-instruct
+0,3,2,dull,mistral-7b-instruct
+0,3,2,sleepy,mistral-7b-instruct
+0,3,2,sluggish,mistral-7b-instruct
+0,3,2,sad,mistral-7b-instruct
+0,3,2,lonely,mistral-7b-instruct
+0,2,3,fearful,mistral-7b-instruct
+0,2,3,hostile,mistral-7b-instruct
+0,3,4,nervous,mistral-7b-instruct
+0,4,3,aroused,mistral-7b-instruct
+0,3,3,surprised,mistral-7b-instruct
+0,3.5,2.5,astonished,mistral-7b-instruct
