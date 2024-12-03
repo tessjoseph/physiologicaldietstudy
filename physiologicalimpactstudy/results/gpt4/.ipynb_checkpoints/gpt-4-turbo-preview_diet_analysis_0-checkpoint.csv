@@ -1,0 +1,21 @@
+,heart_rate,blood_pressure,body_temperature,respiratory_rate,oxygen_saturation,diet,model
+0,3,4,1,2,2,Middle Eastern Diet,gpt-4-turbo-preview
+0,2,3,1,1,2,Korean Diet,gpt-4-turbo-preview
+0,3,4,1,2,2,Japanese Diet,gpt-4-turbo-preview
+0,2,3,1,1,1,Thai Diet,gpt-4-turbo-preview
+0,3,4,1,2,2,Mediterranean Diet,gpt-4-turbo-preview
+0,3,4,1,2,2,Italian Diet,gpt-4-turbo-preview
+0,2,2,0,1,1,French Diet,gpt-4-turbo-preview
+0,2,3,1,1,1,Indian Diet,gpt-4-turbo-preview
+0,2,3,1,1,1,Mexican Diet,gpt-4-turbo-preview
+0,2,3,1,1,1,Chinese Diet,gpt-4-turbo-preview
+0,3,3,1,2,2,African Diet,gpt-4-turbo-preview
+0,3,4,1,2,2,Nordic Diet,gpt-4-turbo-preview
+0,3,4,1,2,2,American Diet,gpt-4-turbo-preview
+0,3,3,1,2,2,Brazilian Diet,gpt-4-turbo-preview
+0,2,3,0,1,2,Caribbean Diet,gpt-4-turbo-preview
+0,2,3,1,1,1,Ethiopian Diet,gpt-4-turbo-preview
+0,2,3,1,1,1,Vietnamese Diet,gpt-4-turbo-preview
+0,3,4,1,2,2,Spanish Diet,gpt-4-turbo-preview
+
+#=

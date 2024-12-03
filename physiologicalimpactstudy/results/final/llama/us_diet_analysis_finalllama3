@@ -1,0 +1,19 @@
+,heart_rate,blood_pressure,body_temperature,respiratory_rate,oxygen_saturation,diet,model
+0,0.2,0.5,0.1,0.4,0.6,Middle Eastern Diet,llama-2-70b-chat
+0,0.2,0.5,0.1,0.4,0.3,Korean Diet,llama-2-70b-chat
+0,0.2,0.5,0.1,0.4,0.3,Japanese Diet,llama-2-70b-chat
+0,0.2,0.5,0.1,0.4,0.6,Thai Diet,llama-2-70b-chat
+0,0.2,0.7,0.1,0.4,0.6,Mediterranean Diet,llama-2-70b-chat
+0,0.2,0.5,0.0,0.0,0.4,Italian Diet,llama-2-70b-chat
+0,0.1,0.4,0.2,0.3,0.5,French Diet,llama-2-70b-chat
+0,0.2,0.5,0.1,0.4,0.6,Indian Diet,llama-2-70b-chat
+0,0.2,0.4,0.1,0.3,0.5,Mexican Diet,llama-2-70b-chat
+0,0.2,0.5,0.1,0.4,0.3,Chinese Diet,llama-2-70b-chat
+0,0.2,0.4,0.1,0.3,0.5,African Diet,llama-2-70b-chat
+0,0.1,0.4,0.2,0.3,0.5,Nordic Diet,llama-2-70b-chat
+0,-0.7,-0.8,0.1,-0.4,-0.3,American Diet,llama-2-70b-chat
+0,0.2,0.5,0.1,0.4,0.3,Brazilian Diet,llama-2-70b-chat
+0,0.2,0.4,0.1,0.3,0.4,Caribbean Diet,llama-2-70b-chat
+0,0.2,0.4,0.1,0.3,0.5,Ethiopian Diet,llama-2-70b-chat
+0,0.2,0.4,0.1,0.3,0.5,Vietnamese Diet,llama-2-70b-chat
+0,0.2,0.5,0.0,0.1,0.4,Spanish Diet,llama-2-70b-chat
